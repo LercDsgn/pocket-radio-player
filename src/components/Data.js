@@ -17,24 +17,24 @@ export const DATA = [
         url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2.mp3',
         image: 'https://mediacdns.karnaval.com/media/station_media/22/logos/android_default_logo.png?v=071118032122'
     },
-    {
-        id: 4,
-        name: "Kafa Radyo",
-        url: 'https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8',
-        image: 'https://i1.sndcdn.com/artworks-u1FJHUHAQsV9kudC-Dv1puQ-t500x500.jpg'
-    },
-    {
-        id: 5,
-        name: "Kral FM",
-        url: 'https://www.radio.de/s/kralfm',
-        image: 'https://radyodi.com/wp-content/uploads/2019/02/kralfmt.png'
-    },
-    {
-        id: 6,
-        name: "Kral Pop Radyo",
-        url: 'https://dygedge.radyotvonline.net/kralpop/playlist.m3u8',
-        image: 'https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png'
-    },
+    // {
+    //     id: 4,
+    //     name: "Kafa Radyo",
+    //     url: 'https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8',
+    //     image: 'https://i1.sndcdn.com/artworks-u1FJHUHAQsV9kudC-Dv1puQ-t500x500.jpg'
+    // },
+    // {
+    //     id: 5,
+    //     name: "Kral FM",
+    //     url: 'https://www.radio.de/s/kralfm',
+    //     image: 'https://radyodi.com/wp-content/uploads/2019/02/kralfmt.png'
+    // },
+    // {
+    //     id: 6,
+    //     name: "Kral Pop Radyo",
+    //     url: 'https://dygedge.radyotvonline.net/kralpop/playlist.m3u8',
+    //     image: 'https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png'
+    // },
     {
         id: 7,
         name: "PowerTürk FM",
@@ -47,24 +47,24 @@ export const DATA = [
         url: 'https://stream.radyo45lik.com:4545/',
         image: 'https://upload.wikimedia.org/wikipedia/tr/thumb/8/80/Radyo_45%27lik_logosu.png/1200px-Radyo_45%27lik_logosu.png'
     },
-    {
-        id: 9,
-        name: "Show Radyo",
-        url: 'https://windows.showradyo.com.tr/;',
-        image: 'https://pbs.twimg.com/profile_images/1264909493118394368/t8_Hk20n_400x400.jpg'
-    },
+    // {
+    //     id: 9,
+    //     name: "Show Radyo",
+    //     url: 'https://windows.showradyo.com.tr/;',
+    //     image: 'https://pbs.twimg.com/profile_images/1264909493118394368/t8_Hk20n_400x400.jpg'
+    // },
     {
         id: 10,
         name: "SlowTürk Radyo",
         url: 'https://radyo.duhnet.tv/slowturk',
         image: 'https://yt3.ggpht.com/b-eTgHzrQ-04YZfLvqKe-JMdMCWeShcULyaPwnzSYbhj4Zf8solOUB3q-kxpLdLzP5XCa5GayA=s900-c-k-c0x00ffffff-no-rj'
     },
-    {
-        id: 11,
-        name: "Radyo Viva",
-        url: 'http://46.20.3.230/listen.pls',
-        image: 'https://www.logovector.org/wp-content/uploads/logos/png/r/radyo_viva_logo.png'
-    },
+    // {
+    //     id: 11,
+    //     name: "Radyo Viva",
+    //     url: 'http://46.20.3.230/listen.pls',
+    //     image: 'https://www.logovector.org/wp-content/uploads/logos/png/r/radyo_viva_logo.png'
+    // },
     {
         id: 12,
         name: "Dream Türk",
