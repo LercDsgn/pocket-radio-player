@@ -9,7 +9,7 @@ function App() {
 
   const changeUrl = (url) => {
     setUrl(url);
-  }
+  };
 
   return (
     <div>
@@ -24,11 +24,21 @@ function App() {
         })}
       </div>
       <div className="player">
+        {DATA.map((item) => {
+          if (item.url === url) {
+            return (
+              <div className="station-name">
+                <h3>Şu an çalan Radyo:</h3> <h1>{item.name}</h1>
+              </div>
+            );
+          }
+        })}
         <AudioPlayer
           autoPlay
-          preload={'none'}
+          preload={"none"}
           showSkipControls={false}
           showJumpControls={false}
+          loop={false}
           src={url}
           onPlay={(e) => console.log("onPlay")}
           // other props here

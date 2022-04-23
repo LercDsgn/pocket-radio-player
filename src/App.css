@@ -38,3 +38,14 @@
   left: 0;
   width: 100%;
 }
+
+.station-name {
+  color: white;
+  padding-left: 0.3125em;
+  padding-right: 0.3125em;
+  border: 0.3125em black solid;
+  display: inline-block;
+  text-align: center;
+  background: black;
+  border-radius: 0.3125em;
+}
