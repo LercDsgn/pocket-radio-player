@@ -20,13 +20,13 @@ export const DATA = [
     {
         id: 4,
         name: "Kafa Radyo",
-        url: 'https://37.247.98.17/;',
+        url: 'https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8',
         image: 'https://i1.sndcdn.com/artworks-u1FJHUHAQsV9kudC-Dv1puQ-t500x500.jpg'
     },
     {
         id: 5,
         name: "Kral FM",
-        url: 'https://ssldyg2.radyotvonline.com/dyg/kralfm64.stream/playlist.m3u8',
+        url: 'https://www.radio.de/s/kralfm',
         image: 'https://radyodi.com/wp-content/uploads/2019/02/kralfmt.png'
     },
     {
@@ -38,7 +38,7 @@ export const DATA = [
     {
         id: 7,
         name: "PowerTürk FM",
-        url: 'https://mpegpowerturk.listenpowerapp.com/powerturk/mpeg/icecast.audio',
+        url: 'https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;stream.mp3',
         image: 'https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=626'
     },
     {
@@ -62,7 +62,13 @@ export const DATA = [
     {
         id: 11,
         name: "Radyo Viva",
-        url: 'https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8',
+        url: 'http://46.20.3.230/listen.pls',
         image: 'https://www.logovector.org/wp-content/uploads/logos/png/r/radyo_viva_logo.png'
     },
+    {
+        id: 12,
+        name: "Dream Türk",
+        url: 'https://radyo.duhnet.tv/dreamturk',
+        image: 'https://pbs.twimg.com/profile_images/935862506987380737/x8wLxkUx_400x400.jpg'
+    }
 ]
