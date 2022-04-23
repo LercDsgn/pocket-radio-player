@@ -39,7 +39,7 @@ function App() {
           preload={"none"}
           showSkipControls={false}
           showJumpControls={false}
-          loop={false}
+          volume={0.3}
           src={url}
           onPlay={(e) => console.log("onPlay")}
           // other props here
