@@ -1,5 +1,5 @@
 export const DATA = [
-    { id: 1, name: "Best FM", url: 'http://officialbestfm.radyotvonline.net/bestfmofficial', image: 'https://muzikonair.com/wp-content/uploads/2019/09/best-fm-yeni-logo-1024x576.jpg' },
+    { id: 1, name: "Best FM", url: 'https://officialbestfm.radyotvonline.net/bestfmofficial', image: 'https://muzikonair.com/wp-content/uploads/2019/09/best-fm-yeni-logo-1024x576.jpg' },
     { id: 2, name: "Alem FM", url: 'https://turkmedya.radyotvonline.net/alemfmaac', image: 'https://yt3.ggpht.com/ytc/AKedOLTLli275fw6X62J2izsZ3TF8pHV2Mfkt--rhk6FvQ=s900-c-k-c0x00ffffff-no-rj' },
     { id: 3, name: "JoyTürk FM", url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2.mp3', image: 'https://mediacdns.karnaval.com/media/station_media/22/logos/android_default_logo.png?v=071118032122' },
     { id: 4, name: "Kafa Radyo", url: 'https://37.247.98.17/;', image: 'https://i1.sndcdn.com/artworks-u1FJHUHAQsV9kudC-Dv1puQ-t500x500.jpg' },
