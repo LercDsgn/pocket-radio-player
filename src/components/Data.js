@@ -34,18 +34,18 @@ export const DATA = [
   //     image:
   //       "https://i1.sndcdn.com/artworks-u1FJHUHAQsV9kudC-Dv1puQ-t500x500.jpg",
   //   },
-  {
-    id: 5,
-    name: "Kral FM",
-    url: "http://kralsc.radyotvonline.com:80/",
-    image: "https://radyodi.com/wp-content/uploads/2019/02/kralfmt.png",
-  },
-  {
-    id: 6,
-    name: "Kral Pop Radyo",
-    url: "http://kralpopsc.radyotvonline.com:80/",
-    image: "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
-  },
+  // {
+  //   id: 5,
+  //   name: "Kral FM",
+  //   url: "https://erhanpolat.tk/radio-stations/kralfm/",
+  //   image: "https://radyodi.com/wp-content/uploads/2019/02/kralfmt.png",
+  // },
+  // {
+  //   id: 6,
+  //   name: "Kral Pop Radyo",
+  //   url: "https://erhanpolat.tk/radio-stations/kralpop/",
+  //   image: "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+  // },
   {
     id: 7,
     name: "PowerTürk FM",
