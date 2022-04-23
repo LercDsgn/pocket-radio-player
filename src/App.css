@@ -40,12 +40,12 @@
 }
 
 .station-name {
-  color: white;
+  color: black;
   padding-left: 0.3125em;
   padding-right: 0.3125em;
-  border: 0.3125em black solid;
+  border: 3px black solid;
   display: inline-block;
   text-align: center;
-  background: black;
+  background: white;
   border-radius: 0.3125em;
 }

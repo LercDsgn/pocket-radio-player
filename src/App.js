@@ -28,7 +28,8 @@ function App() {
           if (item.url === url) {
             return (
               <div className="station-name">
-                <h3>Şu an çalan Radyo:</h3> <h1>{item.name}</h1>
+                <h3>Şu an çalan Radyo:</h3>
+                <h1>{item.name}</h1>
               </div>
             );
           }
